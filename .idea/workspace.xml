@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="345bc7b7-e53b-412f-8bd7-e9c55bfa4e65" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/MyApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MyApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/MyApplicationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MyApplicationTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="345bc7b7-e53b-412f-8bd7-e9c55bfa4e65" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,7 +16,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="StartApplication.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="StartApplication.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/StartApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -31,7 +28,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyApplication.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MyApplication.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/MyApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
@@ -43,8 +40,8 @@
       <file leaf-file-name="MyApplicationTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/MyApplicationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="28" column="40" lean-forward="true" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+            <state relative-caret-position="459">
+              <caret line="31" column="10" lean-forward="true" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -77,8 +74,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/StartApplication.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/MyApplicationTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/MyApplication.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MyApplicationTest.java" />
       </list>
     </option>
   </component>
@@ -111,11 +108,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-297" />
-    <option name="y" value="-1080" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="141" />
+    <option name="y" value="-1093" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -301,8 +298,7 @@
     <option name="totallyTimeSpent" value="6188000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-297" y="-1080" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
+    <frame x="-298" y="-1088" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -311,14 +307,14 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" sideWeight="0.499316" visible="true" weight="0.0" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21566524" />
+      <window_info anchor="right" id="Maven Projects" order="3" sideWeight="0.49864864" visible="true" weight="0.3296875" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21360256" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="right" id="Coverage" sideWeight="0.500684" side_tool="true" visible="true" weight="0.0" />
+      <window_info anchor="right" id="Coverage" sideWeight="0.50135136" side_tool="true" weight="0.20052083" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3006263" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -382,20 +378,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/StartApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#78#79#0" expanded="true" />
-            <element signature="e#113#114#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/MyApplicationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="28" column="40" lean-forward="true" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+        <state relative-caret-position="459">
+          <caret line="31" column="10" lean-forward="true" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -403,6 +389,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StartApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#78#79#0" expanded="true" />
+            <element signature="e#113#114#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
