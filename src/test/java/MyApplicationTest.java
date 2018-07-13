@@ -29,6 +29,19 @@ public class MyApplicationTest {
         assertEquals("Hello World", myApplication.printHelloWorld());
     }
 
+
+    @Test
+    public void rngTest() throws Exception {
+        int result = myApplication.rdn(5);
+        boolean isGreaterThan;
+        if (result > 5) {
+            isGreaterThan = true;
+        } else {
+            isGreaterThan = false;
+        }
+        assertTrue(String.valueOf(result),!isGreaterThan);
+    }
+
     @After
     public void tearDown() throws Exception {
     }
