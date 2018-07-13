@@ -14,6 +14,7 @@ public class MyApplicationTest {
     }
 
 
+
     @Test
     public void doMathRight()throws Exception{
         int result = myApplication.doMath(5,5);
@@ -23,8 +24,16 @@ public class MyApplicationTest {
 
     }
 
+    @Test
+    public void helloWorldTest()throws Exception {
+        assertEquals("Hello World", myApplication.printHelloWorld());
+    }
 
     @After
     public void tearDown() throws Exception {
     }
+
+
+
+
 }

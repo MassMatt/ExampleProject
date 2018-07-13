@@ -7,8 +7,9 @@ public class MyApplication {
 
     }
 
-    public void printHelloWorld() {
+    public String printHelloWorld() {
         System.out.println("Hello World");
+        return "Hello World";
     }
 
     public int doMath(int number1, int number2) {
