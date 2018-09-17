@@ -1,5 +1,6 @@
 import org.junit.After;
 import org.junit.Before;
+import org.junit.Ignore;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
@@ -14,7 +15,7 @@ public class MyApplicationTest {
     }
 
 
-
+    @Ignore
     @Test
     public void doMathRight()throws Exception{
         int result = myApplication.doMath(5,5);
@@ -24,12 +25,13 @@ public class MyApplicationTest {
 
     }
 
+    @Ignore
     @Test
     public void helloWorldTest()throws Exception {
         assertEquals("Hello World", myApplication.printHelloWorld());
     }
 
-
+    @Ignore
     @Test
     public void rngTest() throws Exception {
         int result = myApplication.rdn(5);

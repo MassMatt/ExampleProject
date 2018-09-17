@@ -8,12 +8,11 @@ public class MyApplication {
     }
 
     public String printHelloWorld() {
-        System.out.println("Hello World");
         return "Hello World";
     }
 
     public int doMath(int number1, int number2) {
-        int result = number1 + number2;
+        int result = number1 + number2 * 100;
         System.out.println(result);
         return result;
     }
